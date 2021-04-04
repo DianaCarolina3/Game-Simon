@@ -1,2 +1,2 @@
 # Game-Simon
-Game of the proyect of Fundamentals JavaScript Course
+Game of the project of Fundamentals JavaScript Course
